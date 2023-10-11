@@ -4,8 +4,7 @@ modal-id: 2
 date: 2023-10-09
 img: harmonigonlogo.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: MIDI Sequencer
+link: https://github.com/StrangeLoopsAudio/Harmonigon/releases/latest
+description: A simple harmonic table MIDI sequencer. Create repeating paths with the notes and intersections (chords) on the harmonic table.
 ---

@@ -18,6 +18,11 @@
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
             <p>{{ post.description }}</p>
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+              <a href="{{ post.link }}" class="btn btn-lg btn-outline">
+              <i class="fa fa-download"></i> Downloads
+              </a>
+            </div>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
